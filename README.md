@@ -1,7 +1,6 @@
 ### Hi there, I'm Camila 👋
-### >> Sou estudante de Engenharia de Software na Universidade de Brasília!👩🏻‍💻
+### >> Sou estudante de Engenharia de Software na Universidade de Brasília!👩🏻
 ### >> Pretendo me aprofundar na área de Front-End!💻
-
 <div align="center">
   <a href="https://github.com/CamilaCareli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CamilaCareli&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
